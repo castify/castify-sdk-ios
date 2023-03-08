@@ -9,8 +9,8 @@ let package = Package(
     targets: [
       .binaryTarget(
         name: "Castify",
-        url: "https://public.castify.jp/swift/castify-sdk/2.0.0.zip",
-        checksum: "eb21ba0df9bfb4676d00bcce4c4435622655c22d4bb228665eca042481810e78"
+        url: "https://public.castify.jp/swift/castify-sdk/2.0.3.zip",
+        checksum: "985a6b444004a5f28423a961f526ce390bbf20814bd6466ba6b850356fda2deb"
       )
     ]
 )
